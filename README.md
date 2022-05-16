@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CandiceSaunders
+- 👋 Hi, I’m Candice Saunders.
 - 👀 I’m interested in AWS, Google Cloud, and Cybersecurity.
 - 🌱 I’m currently learning Python.
 - 📫 You can contact me at candicesaunders113@gmail.com
