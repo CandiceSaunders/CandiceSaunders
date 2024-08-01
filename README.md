@@ -26,7 +26,7 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
 
 - <b>Az-900: Azure Microsoft Azure Fundamentals</b>
 
-- <b>Certified Associate in Project Management (CAPM) - In Progress</b>
+- <b>CompTIA Data+ - In Progress</b>
 
 <h2> 🤳🏿 Connect with me:</h2>
 
