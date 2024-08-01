@@ -14,10 +14,10 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
 <h2>👩🏿‍💻 Data Analysis Projects:</h2>
 
 - <b>Microsoft Excel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Microsoft Excel](https://github.com/CandiceSaunders/Microsoft-Excel-Repository)
     
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Python Repository](https://github.com/CandiceSaunders/Python-Repository)
     
 - <b>SQL</b>
   - [SQL Repository](https://github.com/CandiceSaunders/SQL-Repository)
