@@ -20,7 +20,7 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
     
 - <b>SQL</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [SQL Repository](https://github.com/CandiceSaunders/SQL-Repository)
  
 <h2>Certifications </h2>
 
