@@ -14,7 +14,7 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
 <h2>👩🏿‍💻 Data Analysis Projects:</h2>
 
 - <b>Microsoft Excel</b>
-  - [Microsoft Excel](https://github.com/CandiceSaunders/Microsoft-Excel-Repository)
+  - [Microsoft Excel Repository](https://github.com/CandiceSaunders/Microsoft-Excel-Repository)
     
 - <b>Python</b>
   - [Python Repository](https://github.com/CandiceSaunders/Python-Repository)
