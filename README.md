@@ -1,4 +1,4 @@
-<h1>Hi, I'm Candice! <br/><a href="https://github.com/joshmadakor1">Support Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Business Analyst</a></h1>
+<h1>Hi, I'm Candice! <br/><a Business Analyst</a></h1>
 
 <h2>About Me 😀:</h2>
 
@@ -13,14 +13,15 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
 
 <h2>👩🏿‍💻 Data Analysis Projects:</h2>
 
-- <b>Microsoft Excel</b>
+- <b>SQL</b>
+  - [SQL Repository](https://github.com/CandiceSaunders/SQL-Repository)
+    
+<! -- - <b>Microsoft Excel</b>
   - [Microsoft Excel Repository](https://github.com/CandiceSaunders/Microsoft-Excel-Repository)
     
 - <b>Python</b>
-  - [Python Repository](https://github.com/CandiceSaunders/Python-Repository)
+  - [Python Repository](https://github.com/CandiceSaunders/Python-Repository) -->
     
-- <b>SQL</b>
-  - [SQL Repository](https://github.com/CandiceSaunders/SQL-Repository)
  
 <h2>Certifications </h2>
 
