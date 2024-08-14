@@ -15,14 +15,13 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
 
 - <b>SQL</b>
   - [SQL Repository](https://github.com/CandiceSaunders/SQL-Repository)
-    
- - <b>Microsoft Excel (Under Construction 🚧)</b>
-  - [Microsoft Excel Repository](https://github.com/CandiceSaunders/Microsoft-Excel-Repository)
-    
+
 - <b>Python (Under Construction 🚧) </b>
   - [Python Repository](https://github.com/CandiceSaunders/Python-Repository)
     
- 
+ - <b>Microsoft Excel (Under Construction 🚧)</b>
+   - [Microsoft Excel Repository](https://github.com/CandiceSaunders/Microsoft-Excel-Repository)
+    
 <h2>Certifications </h2>
 
 - <b>Az-900: Azure Microsoft Azure Fundamentals</b>
