@@ -26,7 +26,11 @@ I have professonal experience as a Support Engineer and Business Analyst. I am l
 
 - <b>Az-900: Azure Microsoft Azure Fundamentals</b>
 
-- <b>CompTIA Data+ - In Progress</b>
+- <b>CompTIA Data+</b>
+
+- <b>Certified Scrum Master (CSM) - Scrum Alliance</b>
+
+- <b>Certified Scrum Product Owner (CSPO) - Scrum Alliance</b>
 
 <!-- <h2> 🤳🏿 Connect with me:</h2>
     
