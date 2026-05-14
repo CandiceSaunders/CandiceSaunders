@@ -2,11 +2,10 @@
 
 <h2>About Me 😀</h2>
 
-I have professonal experience as a Support Engineer and Business Analyst. I am looking to expand my knowledge of data analysis.
+I’m a Business Analyst and former Support Engineer with experience supporting technology operations, process improvement initiatives, and cross-functional delivery teams.
 
-- 🌱 I’m currently learning SQL.
-- ✨ I’m also enhancing my skills in Microsoft Excel and Python.
-- 👩🏿 Pronouns: She/Her
+- 🌱 Expanding my skills in SQL, reporting, and data analysis.
+- 👩🏿 Pronouns: She/Her/Hers
 - 💬 Ask me about Beyoncé 🪩.
 - ⚡ Fun fact: I love Beyoncé, if you haven't already figured that out 😂.
 - 📫 How to reach me: CandiceSaunders113@gmail.com
